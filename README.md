@@ -2,6 +2,7 @@
 Hey there! I'm Pruthvirajsinh Solanki, a passionate developer constantly on the journey of improving my skills. I love diving into the world of code and technology, always eager to learn and grow.<br><br>A little more about me:<br><br>- 🔭 I'm currently working on exciting projects in the Node.js and React ecosystems.<br>- 🌱 I'm dedicated to honing my expertise in these technologies and exploring new ones.<br>- 💬 I'm always open to collaboration and discussions about tech and coding.<br>- 📫 Feel free to reach out to me via email at pruthviii1203@gmail.com.<br>- 🚀 Fun fact: I have a knack for solving puzzles and brain teasers, and I'm a huge fan of sci-fi novels.<br>
 
 
+[![](https://visitcount.itsvg.in/api?id=Pruthviraj7&icon=1&color=7)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pruthviraj___12) 
 
@@ -21,4 +22,3 @@ Hey there! I'm Pruthvirajsinh Solanki, a passionate developer constantly on the 
 ![](https://github-contributor-stats.vercel.app/api?username=Pruthviraj7&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pruthviraj7&icon=1&color=7)](https://visitcount.itsvg.in)
